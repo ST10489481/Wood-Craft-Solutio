@@ -103,20 +103,12 @@ Total                    R3950/year
 
  
 Sitemap 
+![Homepage (2)](https://github.com/user-attachments/assets/6d293422-0c24-4156-a3e6-f265cfb47aec)
 
- 
+ Wireframe 
+![Wireframe Flowchart Whiteboard](https://github.com/user-attachments/assets/3a363b85-d697-4b80-b9f2-f875f4c3abb5)
 
- 
-
- 
-
-Wireframe 
-
- 
-
- 
-
-**Bibliography **
+  **Bibliography **
 
  **Bright living room with built‑in shelving.** *The Spruce / Christopher Lee Foto* \[image online]. Available at: *The Spruce* (Accessed: 27 August 2025).
 
